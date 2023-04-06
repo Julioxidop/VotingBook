@@ -27,6 +27,7 @@
 Primero necesitaremos [***descargar***](https://github.com/Julioxidop/VotingBook/releases/tag/1.0 "aquí")  el datapack, tenemos que elegir cual se adapta a nuestras necesidades:
 - **p22voting1w** Es para cuando solo necesitamos tener 1 ganador
 - **p22voting2w** Es para cuando necesitamos tener 2 ganadores
+
 Una vez seleccionado y descargado, lo descomprimimos en la carpeta **datapacks** de nuestro mundo y ejercutaremos el comando **/reload** para que esté listo para funcionar.
 
 ## Como usar el datapack
