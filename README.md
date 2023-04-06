@@ -1,6 +1,23 @@
 # VotingBook
  Sistema de votación por medio de un libro para decidir entre 5 personas
- 
+
+## Tabla de contenidos
+- [VotingBook](#votingbook)
+  * [Caracteristicas](#caracteristicas)
+  * [Descargar e instalar](#descargar-e-instalar)
+  * [Como usar el datapack](#como-usar-el-datapack)
+  * [Personalización](#personalizacion)
+    + [already.mcfunction](#alreadymcfunction)
+    + [p1.mcfunction](#p1mcfunction)
+    + [p2.mcfunction](#p2mcfunction)
+    + [p3.mcfunction](#p3mcfunction)
+    + [p4.mcfunction](#p4mcfunction)
+    + [p5.mcfunction](#p5mcfunction)
+    + [winner.mcfunction](#winnermcfunction)
+    + [draw.mcfunction](#drawmcfunction)
+    + [draw_action.mcfunction](#draw-actionmcfunction)
+  * [Notas](#notas)
+
 ## Caracteristicas
 - Totalmente configurable a tus necesidades con unos pocos comandos.
 - Al ser vanilla no se necesita tener conocimientos avanzados en programación para modificarlo a tu gusto.
