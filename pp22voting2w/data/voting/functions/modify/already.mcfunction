@@ -1,0 +1,1 @@
+tellraw @s {"text": "Ya has votado por ese participante."}
