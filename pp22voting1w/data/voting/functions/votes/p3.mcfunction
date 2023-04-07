@@ -10,3 +10,6 @@ execute as @s[tag=!p3_voted] run function voting:votes/remove_votes
 
 #add reminder
 tag @s add p3_voted
+
+scoreboard players reset @s .trigger
+scoreboard players enable @s .trigger
