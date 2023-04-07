@@ -43,9 +43,9 @@ Una vez seleccionado y descargado, lo descomprimimos en la carpeta **datapacks**
 ```
 Donde cambiaremos `<JUGADORX>` por el usuario o selector de la persona o entidad que queramos que sea votada.
 
-- Después hay que ahora dar el libro a las personas que van a votar:
+- Después hay que ejecutar este comando sobre las personas que queremos que voten, para que les de el libro y los deje votar:
 ```
-/execute as <JUGADORES> run function voting:_book
+/execute as <JUGADORES> run function voting:_start
 ```
 Donde cambiaremos `<JUGADORES>` por el usuario o selector de usuarios que queramos que obtenga el libro para poder votar.
 
