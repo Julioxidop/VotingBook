@@ -51,11 +51,6 @@ Donde cambiaremos `<JUGADORES>` por el usuario o selector de usuarios que queram
 
 **NOTA: Es importante que sea en este orden para que en el libro se vean los nombres de los jugadores!**
 
-**ADVERTENCIA:** ES ESCENCIAL EJECUTAR ESTE COMANDO, ya que de otra manera no los dejará votar, en caso adverso que se presente la situación que no deje votar a alguien, debemos de ejecutar el siguiente comando:
-```
-/scoreboard players enable <JUGADOR> .trigger
-```
-
 - Ahora pues solo basta dejar que voten, y cuando sea el momento usar la siguiente función para seleccionar al ganador o ganadores:
 ```
 /function voting:_winner
@@ -96,4 +91,8 @@ Esta función se ejecuta sobre los jugadores que ganaron las votaciones cuando h
 Sientete libre de modificar las demás funciones si necesitas mayor personalización.
 ## Notas
 - Los jugadores pueden cambiar su voto en cualquier momento.
+- En caso adverso que se presente la situación que no deje votar a alguien, debemos de ejecutar el siguiente comando:
+```
+/scoreboard players enable <JUGADOR> .trigger
+```
 - Si encuentras algun fallo, tienes alguna duda o quieres contactar conmigo, mi user de discord es: **hugme#8792**
