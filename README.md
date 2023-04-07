@@ -24,7 +24,7 @@
 - Funciones listas para que lo puedas personalizar y dar tu toque único.
 
 ## Descargar e instalar
-Primero necesitaremos [***descargar***](https://github.com/Julioxidop/VotingBook/releases/tag/1.0 "aquí")  el datapack, tenemos que elegir cual se adapta a nuestras necesidades:
+Primero necesitaremos [***descargar***](https://github.com/Julioxidop/VotingBook/releases/tag/2.1 "aquí")  el datapack, tenemos que elegir cual se adapta a nuestras necesidades:
 - **p22voting1w** Es para cuando solo necesitamos tener 1 ganador
 - **p22voting2w** Es para cuando necesitamos tener 2 ganadores
 
