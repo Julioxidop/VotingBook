@@ -43,13 +43,18 @@ Una vez seleccionado y descargado, lo descomprimimos en la carpeta **datapacks**
 ```
 Donde cambiaremos `<JUGADORX>` por el usuario o selector de la persona o entidad que queramos que sea votada.
 
-- Después hay que ejecutar este comando sobre las personas que queremos que voten, para que les de el libro y los deje votar:
+- Después hay que ejecutar este comando sobre las personas que queremos que voten, para que les de el libro y **los deje votar**:
 ```
 /execute as <JUGADORES> run function voting:_start
 ```
 Donde cambiaremos `<JUGADORES>` por el usuario o selector de usuarios que queramos que obtenga el libro para poder votar.
 
 **NOTA: Es importante que sea en este orden para que en el libro se vean los nombres de los jugadores!**
+
+**ADVERTENCIA:** ES ESCENCIAL EJECUTAR ESTE COMANDO, ya que de otra manera no los dejará votar, en caso adverso que se presente la situación que no deje votar a alguien, debemos de ejecutar el siguiente comando:
+```
+/scoreboard players enable <JUGADOR> .trigger
+```
 
 - Ahora pues solo basta dejar que voten, y cuando sea el momento usar la siguiente función para seleccionar al ganador o ganadores:
 ```
