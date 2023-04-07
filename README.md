@@ -47,7 +47,7 @@ Donde cambiaremos `<JUGADORX>` por el usuario o selector de la persona o entidad
 ```
 /execute as <JUGADORES> run function voting:_start
 ```
-Donde cambiaremos `<JUGADORES>` por el usuario o selector de usuarios que queramos que obtenga el libro para poder votar.
+Donde cambiaremos `<JUGADORES>` por el usuario o selector de usuarios que queramos que puedan votar.
 
 **NOTA: Es importante que sea en este orden para que en el libro se vean los nombres de los jugadores!**
 
